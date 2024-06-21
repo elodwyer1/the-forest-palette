@@ -5,7 +5,7 @@ the beautiful, foresty greens of Ireland, you might be interested in using this 
 
 # The Colors
 
-![Color Grid](../color_grid.png)
+![Color Grid](color_grid.png)
 
 ## Installation
 
