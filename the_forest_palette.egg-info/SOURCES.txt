@@ -1,9 +1,9 @@
 README.md
+pyproject.toml
 setup.py
 the_forest_palette/__init__.py
 the_forest_palette/palette.py
 the_forest_palette.egg-info/PKG-INFO
 the_forest_palette.egg-info/SOURCES.txt
 the_forest_palette.egg-info/dependency_links.txt
-the_forest_palette.egg-info/requires.txt
 the_forest_palette.egg-info/top_level.txt
