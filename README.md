@@ -4,15 +4,8 @@
 the beautiful, foresty greens of Ireland, you might be interested in using this palette.
 
 # The Colors
-"deepestgreen": "#080C07",
-"richdarkgreen": "#284021",
-"mintyforest": "#658F59",
-"softapple": "#9FD390",
-"cooldarkgreen": "#405947",
-"brightmint": "#B7E6D4",
-"softmint": "#8EB8A8",
-"curiousapple": "#76BE5E",
-"ashmint"
+
+![Color Grid](../color_grid.png)
 
 ## Installation
 
@@ -20,9 +13,8 @@ pip install the-forest-palette
 
 ## Usage
 
-    python
     import matplotlib.pyplot as plt
-    from the_forest_palette import register_custom_colors, set_custom_color_scheme
+    from the_forest_palette import register_custom_colors, set_custom_color_scheme, forest_colors
 
     # Register custom colors
     register_custom_colors()
