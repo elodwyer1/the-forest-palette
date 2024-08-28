@@ -3,6 +3,7 @@
 `the-forest-palette` is a Python package that provides custom color palettes for use with Matplotlib. If you are inspired by
 the beautiful, foresty greens of Ireland, you might be interested in using this palette.
 
+https://pypi.org/project/the-forest-palette/
 # The Colors
 
 ![Color Grid](color_grid.png)
